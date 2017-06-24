@@ -1,0 +1,50 @@
+{
+  "id": "d9e83541-e3a8-4f7c-9aa4-d2db87555d91",
+  "name": "command",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "help",
+      "synonyms": [
+        "help",
+        "helper"
+      ]
+    },
+    {
+      "value": "utility",
+      "synonyms": [
+        "utility"
+      ]
+    },
+    {
+      "value": "administration",
+      "synonyms": [
+        "administration",
+        "admin"
+      ]
+    },
+    {
+      "value": "fun",
+      "synonyms": [
+        "fun",
+        "funny"
+      ]
+    },
+    {
+      "value": "music",
+      "synonyms": [
+        "music",
+        "song",
+        "songs"
+      ]
+    },
+    {
+      "value": "system",
+      "synonyms": [
+        "system"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

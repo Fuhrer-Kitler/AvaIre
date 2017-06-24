@@ -1,0 +1,69 @@
+{
+  "id": "1736dcc5-bb0d-41be-a120-ac8889467810",
+  "name": "music",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "electro",
+      "synonyms": [
+        "electro",
+        "electro swing"
+      ]
+    },
+    {
+      "value": "chill",
+      "synonyms": [
+        "chill",
+        "chillstep"
+      ]
+    },
+    {
+      "value": "classical",
+      "synonyms": [
+        "classical"
+      ]
+    },
+    {
+      "value": "retro",
+      "synonyms": [
+        "retro",
+        "retro renegade"
+      ]
+    },
+    {
+      "value": "metal",
+      "synonyms": [
+        "metal"
+      ]
+    },
+    {
+      "value": "hiphop",
+      "synonyms": [
+        "hip-hop",
+        "hiphop",
+        "hop"
+      ]
+    },
+    {
+      "value": "rock",
+      "synonyms": [
+        "rock-n-roll",
+        "rock"
+      ]
+    },
+    {
+      "value": "jazz",
+      "synonyms": [
+        "jazz"
+      ]
+    },
+    {
+      "value": "pop",
+      "synonyms": [
+        "pop"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}
